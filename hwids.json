@@ -1,4 +1,5 @@
 {
-  "admin": { "hash": "6f42a3eb63c3d1876d1b20066dc4f1ce08f4aa36eb33f9593596efe3f46c51b9", "status": "active" },
-  "TOKEN2": { "hash": "", "status": "unused" }
+  "test": { "hash": "th1514t35th45h", "status": "active" },
+  "TOKEN2": { "hash": "", "status": "unused" },
+  "c68ba8178629c5248009f36bc41fa851d0ececc295d0d736f03f7fa759353ceb": { "hash": "", "status": "unused"}
 }
