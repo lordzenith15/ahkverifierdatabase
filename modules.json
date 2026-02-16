@@ -1,0 +1,8 @@
+{
+  "mainScriptHandler" : "main.ahk",
+  "cycleScriptHandler": "cycle.ahk",
+  "adaptiveScriptHandler": "autoHandler.ahk",
+  "guiHandler": "guiHandler.ahk",
+  "utilityHandler": "macroHandler.ahk",
+  "DEBUGtestModule": "moduleTest.ahk"
+}
