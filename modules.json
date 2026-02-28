@@ -4,5 +4,6 @@
   "adaptiveScriptHandler": "autoHandler.ahk",
   "guiHandler": "guiHandler.ahk",
   "utilityHandler": "macroHandler.ahk",
+  "pixelTracker": "pxchk.ahk"
   "DEBUGtestModule": "moduleTest.ahk"
 }
