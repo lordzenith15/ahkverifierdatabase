@@ -9,3 +9,5 @@ This is manually updated for now, will be automatized later on.
 ## Modules
 This file contains the names of the currently verified and registered modules for the module fetcher.
 The script will only recognize modules that are stored in the database.
+## Versionid
+This file contains a single string that identifies the latest version. This is used when verifying integrity and ensuring up-to-date versions in 1.2.2 and newer releases.
