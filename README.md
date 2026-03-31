@@ -6,6 +6,8 @@ All login data are safely hashed with salt. Your data is kept safe and you may r
 ## HWIDS
 This file contains the login details with proper cryptography for the algorithm to fetch from. 
 This is manually updated for now, will be automatized later on.
+Reminder that this solution is because i can't be asked to setup a whole homeserver and SQL database for this, and i lack the funds to rent a server. 
+But at least we have transparency, i guess?
 ## Modules
 This file contains the names of the currently verified and registered modules for the module fetcher.
 The script will only recognize modules that are stored in the database.
