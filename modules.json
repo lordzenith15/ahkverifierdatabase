@@ -4,6 +4,7 @@
   "adaptiveScriptHandler": "autoHandler.ahk",
   "guiHandler": "guiHandler.ahk",
   "utilityHandler": "macroHandler.ahk",
-  "pixelTracker": "pxchk.ahk"
+  "pixelTracker": "pxchk.ahk",
+  "darkcunique": "darkc.ahk",
   "DEBUGtestModule": "moduleTest.ahk"
 }
