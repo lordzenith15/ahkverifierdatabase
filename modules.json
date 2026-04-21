@@ -6,5 +6,7 @@
   "utilityHandler": "macroHandler.ahk",
   "pixelTracker": "pxchk.ahk",
   "darkcunique": "darkc.ahk",
+  "neoadaptiveHandler": "neoadaptiveHandler.ahk",
+  "neoguiHandler": "neoguiHandler.ahk",
   "DEBUGtestModule": "moduleTest.ahk"
 }
