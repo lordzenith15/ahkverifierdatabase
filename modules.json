@@ -1,11 +1,13 @@
 {
   "mainScriptHandler" : "main.ahk",
   "cycleScriptHandler": "cycle.ahk",
-  "adaptiveScriptHandler": "autoHandler.ahk",
+  "adaptiveHandler": "autoHandler.ahk",
+  "adaptiveToleranceHandler": "adaptiveHandler.ahk",
   "guiHandler": "guiHandler.ahk",
   "utilityHandler": "macroHandler.ahk",
   "pixelTracker": "pxchk.ahk",
   "darkcunique": "darkc.ahk",
+  "humanunique": "humanv4.ahk",
   "neoadaptiveHandler": "neoadaptiveHandler.ahk",
   "neoguiHandler": "neoguiHandler.ahk",
   "DEBUGtestModule": "moduleTest.ahk"
