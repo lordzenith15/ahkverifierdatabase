@@ -15,6 +15,6 @@
   "v2adaptiveHandler": "autoHandlerV2.ahk",
   "v2guiHandler": "guiHandlerV2.ahk",
   "v2utilityHandler": "macroHandlerV2.ahk",
-  "v2neoadaptive": "NeoAdaptiveHanderV2.ahk",
+  "v2neoadaptive": "NeoAdaptiveHandlerV2.ahk",
   "v2neogui": "NeoGuiHandlerV2.ahk"
 }
