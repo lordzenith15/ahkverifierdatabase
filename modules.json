@@ -10,5 +10,9 @@
   "humanunique": "humanv4.ahk",
   "neoadaptiveHandler": "neoadaptiveHandler.ahk",
   "neoguiHandler": "neoguiHandler.ahk",
-  "DEBUGtestModule": "moduleTest.ahk"
+  "DEBUGtestModule": "moduleTest.ahk",
+  "DEBUGtestModulev2": "moduleTestv2.ahk",
+  "v2adaptiveHandler": "autoHandlerV2.ahk",
+  "v2guiHandler": "guiHandlerV2.ahk",
+  "v2utilityHandler": "macroHandlerV2.ahk"
 }
